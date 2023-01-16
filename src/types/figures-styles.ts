@@ -1,0 +1,1 @@
+export type figuresStyles = 'strokeStyle' | 'fillStyle';
